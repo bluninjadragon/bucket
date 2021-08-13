@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/BucketList/bucketlist.module.css","webpack://src/main.css"],"names":[],"mappings":"AAAA,0BACE,wBACF,CAAA,CCFA,KACE,oEACF","file":"main.c2efb7e5.chunk.css","sourcesContent":[".bucket {\r\n  background-color: hotpink;\r\n};","body {\r\n  font-family: \"Franklin Gothic Medium\", \"Arial Narrow\", Arial, sans-serif;\r\n}\r\n"]}

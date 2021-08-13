@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.js": "/bluninjadragon/bucket/static/js/main.f891192a.chunk.js",
-    "main.js.map": "/bluninjadragon/bucket/static/js/main.f891192a.chunk.js.map",
+    "main.css": "/bluninjadragon/bucket/static/css/main.c2efb7e5.chunk.css",
+    "main.js": "/bluninjadragon/bucket/static/js/main.170ebc2a.chunk.js",
+    "main.js.map": "/bluninjadragon/bucket/static/js/main.170ebc2a.chunk.js.map",
     "runtime-main.js": "/bluninjadragon/bucket/static/js/runtime-main.ff70ec7d.js",
     "runtime-main.js.map": "/bluninjadragon/bucket/static/js/runtime-main.ff70ec7d.js.map",
-    "static/js/2.6ef04119.chunk.js": "/bluninjadragon/bucket/static/js/2.6ef04119.chunk.js",
-    "static/js/2.6ef04119.chunk.js.map": "/bluninjadragon/bucket/static/js/2.6ef04119.chunk.js.map",
+    "static/js/2.cb52aa1a.chunk.js": "/bluninjadragon/bucket/static/js/2.cb52aa1a.chunk.js",
+    "static/js/2.cb52aa1a.chunk.js.map": "/bluninjadragon/bucket/static/js/2.cb52aa1a.chunk.js.map",
     "index.html": "/bluninjadragon/bucket/index.html",
-    "static/js/2.6ef04119.chunk.js.LICENSE.txt": "/bluninjadragon/bucket/static/js/2.6ef04119.chunk.js.LICENSE.txt"
+    "static/css/main.c2efb7e5.chunk.css.map": "/bluninjadragon/bucket/static/css/main.c2efb7e5.chunk.css.map",
+    "static/js/2.cb52aa1a.chunk.js.LICENSE.txt": "/bluninjadragon/bucket/static/js/2.cb52aa1a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ff70ec7d.js",
-    "static/js/2.6ef04119.chunk.js",
-    "static/js/main.f891192a.chunk.js"
+    "static/js/2.cb52aa1a.chunk.js",
+    "static/css/main.c2efb7e5.chunk.css",
+    "static/js/main.170ebc2a.chunk.js"
   ]
 }
