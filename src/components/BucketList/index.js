@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import Bucket from "./../Bucket";
 
 function BucketList() {
   const [bucket, setBucket] = useState("");
@@ -29,7 +30,7 @@ function BucketList() {
       </form>
       <ul>
         {bucketList.map((item, index) => (
-          <li key={index}>{item}</li>
+          <Bucket key={index}>{item}</Bucket>
         ))}
       </ul>
     </div>
