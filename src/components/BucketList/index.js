@@ -27,7 +27,11 @@ function BucketList() {
         ></input>
         <button>Add bucket list item</button>
       </form>
-      {bucketList}
+      <ul>
+        {bucketList.map((item, index) => (
+          <li key={index}>{item}</li>
+        ))}
+      </ul>
     </div>
   );
 }
