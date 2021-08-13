@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import Bucket from "./../Bucket";
+import styles from "./bucketlist.module.css";
 
 function BucketList() {
   const [bucket, setBucket] = useState("");
@@ -16,7 +17,7 @@ function BucketList() {
 
   return (
     <div>
-      <h1>WELCOME TO THE BUCKET DOME</h1>
+      <h1 className={styles.bucket}>WELCOME TO THE BUCKET DOME</h1>
       <div>You're typing with: {bucket}</div>
       <form onSubmit={handleSubmit}>
         <input

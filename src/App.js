@@ -1,4 +1,5 @@
 import BucketList from "./components/BucketList";
+import "./main.css";
 
 function App() {
   return (
