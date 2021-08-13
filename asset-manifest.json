@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/bluninjadragon/bucket/static/css/main.c2efb7e5.chunk.css",
-    "main.js": "/bluninjadragon/bucket/static/js/main.170ebc2a.chunk.js",
-    "main.js.map": "/bluninjadragon/bucket/static/js/main.170ebc2a.chunk.js.map",
-    "runtime-main.js": "/bluninjadragon/bucket/static/js/runtime-main.ff70ec7d.js",
-    "runtime-main.js.map": "/bluninjadragon/bucket/static/js/runtime-main.ff70ec7d.js.map",
-    "static/js/2.cb52aa1a.chunk.js": "/bluninjadragon/bucket/static/js/2.cb52aa1a.chunk.js",
-    "static/js/2.cb52aa1a.chunk.js.map": "/bluninjadragon/bucket/static/js/2.cb52aa1a.chunk.js.map",
-    "index.html": "/bluninjadragon/bucket/index.html",
-    "static/css/main.c2efb7e5.chunk.css.map": "/bluninjadragon/bucket/static/css/main.c2efb7e5.chunk.css.map",
-    "static/js/2.cb52aa1a.chunk.js.LICENSE.txt": "/bluninjadragon/bucket/static/js/2.cb52aa1a.chunk.js.LICENSE.txt"
+    "main.css": "/bucket/static/css/main.c2efb7e5.chunk.css",
+    "main.js": "/bucket/static/js/main.170ebc2a.chunk.js",
+    "main.js.map": "/bucket/static/js/main.170ebc2a.chunk.js.map",
+    "runtime-main.js": "/bucket/static/js/runtime-main.4cad635d.js",
+    "runtime-main.js.map": "/bucket/static/js/runtime-main.4cad635d.js.map",
+    "static/js/2.cb52aa1a.chunk.js": "/bucket/static/js/2.cb52aa1a.chunk.js",
+    "static/js/2.cb52aa1a.chunk.js.map": "/bucket/static/js/2.cb52aa1a.chunk.js.map",
+    "index.html": "/bucket/index.html",
+    "static/css/main.c2efb7e5.chunk.css.map": "/bucket/static/css/main.c2efb7e5.chunk.css.map",
+    "static/js/2.cb52aa1a.chunk.js.LICENSE.txt": "/bucket/static/js/2.cb52aa1a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ff70ec7d.js",
+    "static/js/runtime-main.4cad635d.js",
     "static/js/2.cb52aa1a.chunk.js",
     "static/css/main.c2efb7e5.chunk.css",
     "static/js/main.170ebc2a.chunk.js"
